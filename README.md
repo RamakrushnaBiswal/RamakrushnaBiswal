@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web-development
 - 🌱 I’m currently learning B-tech 2nd year
 - 💞️ I’m looking to collaborate on Projects
-- 📫 How to reach me instaGram(N/A)
+- 📫 How to reach me LinkedIn
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Love Coding and Devloping websites
 - Jay shree Ram..........

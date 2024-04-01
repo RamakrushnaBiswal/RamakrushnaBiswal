@@ -1,10 +1,8 @@
 👋
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
-<p align="center"> 
-  ![](https://komarev.com/ghpvc/?username=ramakrushnabiswal&color=blueviolet)
-</p>
-
+  ![](https://komarev.com/ghpvc/?username=RamakrushnaBiswal&color=blueviolet)
+  
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ramakrushna.bunty) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramakrushna-biswal) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23469288/ramakrushna-biswal) [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/mr_ram_babu__)
 

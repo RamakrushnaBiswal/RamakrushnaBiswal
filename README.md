@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
 <p align="center"> 
-  ![](https://komarev.com/ghpvc/?username=Ramakrushnabiswal&color=green)
+  ![](https://komarev.com/ghpvc/?username=ramakrushnabiswal&color=blueviolet)
 </p>
 
 ## 🌐 Socials:

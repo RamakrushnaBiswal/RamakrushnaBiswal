@@ -1,11 +1,10 @@
-- 👋 Hi, I’m @RamakrushnaBiswal
-- 👀 I’m interested in Web-development
-- 🌱 I’m currently learning B-tech 2nd year
-- 💞️ I’m looking to collaborate on Projects
-- 📫 How to reach me LinkedIn
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Love Coding and Devloping websites
- <b>Thank you for visiting my profile, and I look forward to connecting with like-minded professionals in the industry.</b>
+👋
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ramakrushna.bunty) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramakrushna-biswal) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23469288/ramakrushna-biswal) [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/mr_ram_babu__)

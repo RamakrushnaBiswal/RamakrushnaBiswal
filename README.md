@@ -1,6 +1,5 @@
-👋
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
-
+![Untitled design](https://github.com/RamakrushnaBiswal/RamakrushnaBiswal/assets/125277258/9442f3ff-9be8-4d1c-ba92-c83b672a250d)
+<br>
   ![](https://komarev.com/ghpvc/?username=RamakrushnaBiswal&color=blueviolet)
   
 ## 🌐 Socials:

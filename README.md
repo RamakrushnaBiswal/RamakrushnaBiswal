@@ -1,4 +1,5 @@
-![Untitled design](https://github.com/RamakrushnaBiswal/RamakrushnaBiswal/assets/125277258/9442f3ff-9be8-4d1c-ba92-c83b672a250d)
+## Hi there🧑‍💻
+![Wel Come](https://github.com/RamakrushnaBiswal/RamakrushnaBiswal/assets/125277258/9442f3ff-9be8-4d1c-ba92-c83b672a250d)
 <br>
   ![](https://komarev.com/ghpvc/?username=RamakrushnaBiswal&color=blueviolet)
   
@@ -16,5 +17,10 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RamakrushnaBiswal&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## Holopin badges
+## Holopin badges👀
 [![ @ramakrushnabiswal's Holopin badges](https://holopin.me/ramakrushnabiswal)](https://holopin.io/@ramakrushnabiswal)
+
+## bye bye👋
+![Thank you](https://github.com/RamakrushnaBiswal/RamakrushnaBiswal/assets/125277258/1317efa1-af07-4cc3-99a5-210271068b49)
+
+

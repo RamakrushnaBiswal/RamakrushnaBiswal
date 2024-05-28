@@ -13,7 +13,7 @@
 [![ @ramakrushnabiswal's Holopin badges](https://holopin.me/ramakrushnabiswal)](https://holopin.io/@ramakrushnabiswal)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RamakrushnaBiswal&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+[![RamakrushnaBiswal's GitHub | Stats](https://stats.quine.sh/RamakrushnaBiswal/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=RamakrushnaBiswal)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RamakrushnaBiswal&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RamakrushnaBiswal&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 

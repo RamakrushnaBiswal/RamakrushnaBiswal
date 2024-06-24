@@ -19,7 +19,8 @@ note:-`you must have installed nodejs :)`
 ![image](https://github.com/RamakrushnaBiswal/RamakrushnaBiswal/assets/125277258/73a5969d-b2cf-4263-bfd7-d9de67545902)
 
 # 📊 GitHub Stats:
-[![RamakrushnaBiswal's GitHub | Stats](https://stats.quine.sh/RamakrushnaBiswal/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=RamakrushnaBiswal)<br/>
+  [![RamakrushnaBiswal's GitHub | Stats](https://stats.quine.sh/RamakrushnaBiswal/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=RamakrushnaBiswal)
+  [![RamakrushnaBiswal's GitHub | Dependencies](https://stats.quira.sh/RamakrushnaBiswal/dependencies?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=RamakrushnaBiswal)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RamakrushnaBiswal&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RamakrushnaBiswal&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 

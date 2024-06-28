@@ -27,7 +27,8 @@ note:-`you must have installed nodejs :)`
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RamakrushnaBiswal&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## bye bye👋
+## Dev quotes ⚡
+[![readme Quotes](https://quotes-github-readme.vercel.app/api?theme=catppuccin)](https://github.com/piyushsuthar/github-readme-quotes)
+
+## Bye bye👋
 ![Thank you](https://github.com/RamakrushnaBiswal/RamakrushnaBiswal/assets/125277258/1317efa1-af07-4cc3-99a5-210271068b49)
-
-

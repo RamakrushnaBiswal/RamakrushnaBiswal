@@ -2,9 +2,10 @@
 *Enter in your CLI:-* `npx ram-code` <br>
 note:-`you must have installed nodejs :)`
 
-![Wel Come](https://github.com/RamakrushnaBiswal/RamakrushnaBiswal/assets/125277258/9442f3ff-9be8-4d1c-ba92-c83b672a250d)
-<br>
   ![](https://komarev.com/ghpvc/?username=RamakrushnaBiswal&color=blueviolet)
+  ## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@ram79/30-nites-of-code)  
+  ![@ram79 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=ram79)
   
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ramakrushna.bunty) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramakrushna-biswal) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23469288/ramakrushna-biswal) [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/mr_ram_babu__)

@@ -6,7 +6,8 @@
 </div>
 <hr>
 
-👨🏻‍💻 **About Me**<img src="https://www.codedex.io/api/petStatus?user=ram79" min-width="300px" max-width="300px" width="250px" align="right"> 
+👨🏻‍💻 **About Me**<img src="https://www.codedex.io/api/petStatus?user=ram79" min-width="300px" max-width="300px" width="250px" align="right">
+                <img src="https://www.codedex.io/images/code-nights/evolved-happy-dragon.gif" min-width="300px" max-width="300px" width="250px" align="right">
 <br>
 ✨ Google DSC GIETU Co-Lead(**Web-Dev**)<br>
 🚀Open Source Contributor<br>

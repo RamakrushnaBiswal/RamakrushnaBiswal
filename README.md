@@ -8,7 +8,7 @@
 
 👨🏻‍💻 **About Me** <img src="https://www.codedex.io/images/code-nights/evolved-happy-dragon.gif" min-width="300px" max-width="300px" width="250px" align="right">
 <br>
-✨ Google DSC GIETU Co-Lead(**Web-Dev**)<br>
+✨ GDG GIETU Social and Graphics Lead <br>
 🚀Open Source Contributor<br>
 💬 Ask me about WEB & UX/UI<br>
 ✉️ Contact me <a href="mailto:ramakrushnabunty@gmail.com">Gmail</a>
